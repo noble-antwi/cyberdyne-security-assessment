@@ -15,6 +15,7 @@
 ## Business Operations
 
 ### Primary Business Activities
+
 - **AI and Robotics Development:** Research and development of artificial intelligence systems and robotic technologies
 - **Microprocessor Manufacturing:** Production of advanced microprocessors for AI applications
 - **Government Solutions:** Vendor for government entities providing IT services, hardware, and software solutions
@@ -23,6 +24,7 @@
 ### Geographic Operations
 
 **California Location (Headquarters)**
+
 - Administrative functions
 - Research & Development center
 - Engineering teams
