@@ -1,0 +1,59 @@
+# Cyberdyne Security Assessment - .gitignore
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.old
+
+# Personal notes (if you're working on this)
+notes.md
+TODO.md
+scratch/
+
+# Sensitive information (DO NOT COMMIT)
+*.key
+*.pem
+*.p12
+*.pfx
+credentials/
+secrets/
+.env
+
+# Build artifacts
+build/
+dist/
+*.pdf.bak
+
+# Backup files from editors
+*~
+\#*\#
+.#*
