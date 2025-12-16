@@ -297,7 +297,6 @@ Cybersecurity Professional | Operating System Security Specialist
 
 - **Illinois Institute of Technology** - College of Computing
 - **Professor Philip Matuszak** - Course instruction and project guidance
-- **ITMO-X58 Operating System Security** - Fall 2025 cohort
 
 ---
 
